@@ -1,0 +1,33 @@
+# Week of Jan 29
+  - Setup database for bounties
+  - Can post a new bounty
+  - Can view posted bounties in order
+# Week of Feb 5
+  - Draw data structure
+  - Organize and create helper functions
+  - View posted bounties associated with your account
+# Week of Feb 12
+  - Converted from ReplitDB to SQLite
+# Week of Feb 19
+  - Enabled users to upload their resume
+  - User's resume is visible in signed in "Account"
+  - Apply for bounty:
+      - Adds current user to list of applicants
+# Week of Feb 26
+  - Redo Account UI
+  - View an applicant's resume
+  - Chat
+# Week of Mar 6
+  - Remove "Apply for bounty" button if already applied
+  - Delete your resume (so you can upload a new one)
+  - Select a bounty hunter
+# Week of Mar 20
+  - Switch to TinyDB to eliminate bugs
+  - Add repo link feature
+# Week of Mar 27
+  - Fix TinyDB "select_hunter()" bug
+  - Unassign bounty hunter (active -> posted)
+# Week of Apr 3
+  - Mark as complete from both ends finishes project
+# End of semester
+  - Complete documentation
